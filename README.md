@@ -14,3 +14,8 @@ A simple web application for managing your to-do list with a stylish interface.
 
    ```bash
    git clone https://github.com/HarshithaDeviM/Simple-To-do-List.git
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
