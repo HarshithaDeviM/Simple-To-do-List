@@ -19,3 +19,6 @@ A simple web application for managing your to-do list with a stylish interface.
 - HTML
 - CSS
 - JavaScript
+
+## CheckOut the Website
+https://harshithadevim.github.io/Simple-To-do-List/
